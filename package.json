@@ -1,0 +1,24 @@
+{
+	"name": "farzi.js",
+	"version": "1.0.0",
+	"description": "A Package to generate mock data for your projects",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"farzijs",
+		"farzi"
+	],
+	"author": "Aditya Singh",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/cli": "^7.24.7",
+		"@babel/core": "^7.24.7",
+		"@babel/preset-env": "^7.24.7",
+		"@rollup/plugin-terser": "^0.4.4",
+		"javascript-obfuscator": "^4.1.1",
+		"rollup": "^4.17.2"
+	}
+}
